@@ -7,7 +7,7 @@ Analyzing user behavior and patterns in different traffic sources to enerate str
 
 Tables Used: website_sessions, orders
 
-Find the Top Traffic Sources
+Find the Top Traffic Sources 
 Traffic Source Conversion Rates
 Traffic Source Trending
 Bid Optimization for Paid Traffic
